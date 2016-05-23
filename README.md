@@ -1,4 +1,4 @@
 CSShort
 =======
 
-a light and heavy CSS grid for people who don't like having a 2kms CSS.
+a thin CSS grid for greedy people.
